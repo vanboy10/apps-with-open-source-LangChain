@@ -1,6 +1,6 @@
-😶‍🌫️# Apps with Open Source: LangChain
+# Apps with Open Source: LangChain☠️
 
-⭐## LangChain is a simple app for creating and storing notes using blockchain technology. The app is designed to allow users to keep records in any language and utilize the security and transparency offered by blockchain technology.
+## LangChain is a simple app for creating and storing notes using blockchain technology. The app is designed to allow users to keep records in any language and utilize the security and transparency offered by blockchain technology🫣.
 
 # Features❄️
 
